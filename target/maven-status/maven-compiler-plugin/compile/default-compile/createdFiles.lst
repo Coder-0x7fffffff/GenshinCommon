@@ -1,0 +1,8 @@
+space\xiami\project\genshincommon\enums\CurveEnum.class
+space\xiami\project\genshincommon\exception\DataRestTemplateException.class
+space\xiami\project\genshincommon\enums\LanguageEnum.class
+space\xiami\project\genshincommon\enums\WeaponTypeEnum.class
+space\xiami\project\genshincommon\exception\EntryException.class
+space\xiami\project\genshincommon\NumberRange.class
+space\xiami\project\genshincommon\enums\ReliquaryTypeEnum.class
+space\xiami\project\genshincommon\enums\ElementalTypeEnum.class
